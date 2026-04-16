@@ -1,0 +1,6 @@
+@EndUserText.label: 'Service for Draft Travel'
+define service ZV_DRAFT_TRAVEL_SRV {
+  expose ZC_TRAVEL_D;
+  expose ZC_BOOKING_D;
+  expose ZC_BOOKINGSUPPLEMENT_D;
+}
