@@ -1,2 +1,2 @@
 # ABAP-DRAFT
-ABAP DRAFT
+Draft Based RAP Application
